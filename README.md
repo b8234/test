@@ -25,7 +25,7 @@ All projects in this repository are based on exercises and tutorials from Micros
 
 ### Special Focus on Generative AI
 
-- **[Generative AI and Prompt Engineering](./Generative%20AI%20and%20Prompt%20Engineering)**: This new, dedicated section explores the cutting-edge field of generative AI models like Microsoft CoPilot, focusing on the nuances of prompt engineering and its applications. Dive into projects that showcase the innovative integration of generative AI in solving complex problems and creating new opportunities.
+- **[Generative AI and Prompt Engineering](https://github.com/b8234/test/tree/main/Generative%20AI%20and%20Prompt%20Engineering)**: This new, dedicated section explores the cutting-edge field of generative AI models like Microsoft CoPilot, focusing on the nuances of prompt engineering and its applications. Dive into projects that showcase the innovative integration of generative AI in solving complex problems and creating new opportunities.
 
   - Discover how generative AI is transforming the landscape of AI applications through projects like Bing CoPilot and more.
 
