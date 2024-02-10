@@ -10,7 +10,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Additional Acknowledgments:
 ---------------------------
-- The code exercises in the Generative AI and Prompt Engineering folder are sourced from the Microsoft Learn AI series. The use of these materials is gratefully acknowledged, and they are provided here for educational enhancement and as a demonstration of practical applications.
+- The code exercises in the Generative AI and Prompt Engineering folder are personal projects, and all remaining projects in the other folders are sourced from the Microsoft Learn AI series. The use of these materials is gratefully acknowledged, and they are provided here for educational enhancement and as a demonstration of practical applications.
 
 End of Notices
 ---------------
