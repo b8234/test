@@ -2,7 +2,7 @@
 
 Welcome to the Azure AI Portfolio! This repository contains a collection of projects showcasing the capabilities of various Azure AI services. Explore the projects below to learn more about each one:
 
-## [Generative AI and Prompt Engineering Portfolio](Generative_AI_and_Prompt_Engineering)
+## [Generative AI and Prompt Engineering Portfolio]([Generative_AI_and_Prompt_Engineering](https://github.com/b8234/test/tree/main/Generative%20AI%20and%20Prompt%20Engineering))
 Explore projects focusing on generative AI and prompt engineering:
 
 - [Text Summarization](Generative_AI_and_Prompt_Engineering/Text_Summarization): Illustrates how to integrate the OpenAI API to generate fictional planet names and descriptions using GPT-3.5 Turbo.
